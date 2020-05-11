@@ -6,8 +6,8 @@ block content
         h3 Searching for #{searchingBy}
     .search__videos
         each item in videos
-        +videoBlock({
-            title: item.title,
-            views: item.views,
-            videoFile: item.videoFile
-        })
+            +videoBlock({
+                title: item.title,
+                views: item.views,
+                videoFile: item.videoFile
+            })
