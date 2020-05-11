@@ -15,5 +15,6 @@ module.exports = {
   },
   rules: {
     "no-console": "off",
+    "no-else-return": "off",
   },
 };
