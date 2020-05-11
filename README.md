@@ -70,3 +70,10 @@ INTUBE
 - [ ] Upload
 - [ ] Video Detail
 - [ ] Edit Video
+
+## Run
+
+```
+$ npm run dev:server
+$ npm run dev:assets
+```
