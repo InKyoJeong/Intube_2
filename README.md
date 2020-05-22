@@ -2,13 +2,13 @@
 
 ## Technologies
 
-ES6, NodeJS(Express), MongoDB(mongoose), Webpack, Pug
+ES6, NodeJS(Express), MongoDB(mongoose), Webpack, Pug, Scss
 
 ## Features
 
 - [ ] Facebook/ Github Login
 - [ ] Kakao Login
-- [ ] Video Upload/ Delete/ Search
+- [x] Video Upload/ Delete/ Search
 
 <!-- ## Deploy
 
@@ -18,6 +18,14 @@ ES6, NodeJS(Express), MongoDB(mongoose), Webpack, Pug
 
 ```
 INTUBE
+├── assets
+│   ├── js
+│   └── scss
+│       ├── config
+│       ├── pages
+│       ├── partials
+│       ├── main.scss
+│       └── styles.scss
 ├── controller
 │   ├── userController.js
 │   └── videoController.js
@@ -31,6 +39,8 @@ INTUBE
 ├── views
 │   ├── layouts
 │   │   └── main.pug
+│   ├── mixins
+│   │   └── videoBlock.pug
 │   ├── partials
 │   │   ├── footer.pug
 │   │   ├── header.pug
@@ -47,14 +57,17 @@ INTUBE
 │   ├── upload.pug
 │   ├── userDetail.pug
 │   └── videoDetail.pug
-├── babel.config.json
 ├── app.js
+├── babel.config.json
+├── db.js
 ├── init.js
 ├── middlewares.js
-├── routes.js
 ├── package.json
 ├── package-lock.json
-├── node_modules
+├── webpack.config.js
+├── routes.js
+├── .eslintrc.js
+├── .env
 └── .gitigonore
 ```
 
