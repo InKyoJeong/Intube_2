@@ -31,6 +31,7 @@ INTUBE
 │   └── videoController.js
 ├── models
 │   ├── Commnet.js
+│   ├── User.js
 │   └── Video.js
 ├── routers
 │   ├── globalRouter.js
@@ -66,6 +67,7 @@ INTUBE
 ├── package-lock.json
 ├── webpack.config.js
 ├── routes.js
+├── passport.js
 ├── .eslintrc.js
 ├── .env
 └── .gitigonore
