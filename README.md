@@ -82,7 +82,7 @@ INTUBE
 - [x] Upload
 - [x] Video Detail
 - [x] Edit Video
-- [ ] User Detail
+- [x] User Detail
 - [ ] Edit Profile
 - [ ] Change Password
 
