@@ -8,6 +8,7 @@ ES6, NodeJS(Express), MongoDB(mongoose), Webpack, Pug, Scss
 
 - [x] Video Upload/ Delete/ Search
 - [x] Github Login
+- [x] Add Comment
 <!-- - [ ] Kakao Login -->
 
 <!-- ## Deploy
@@ -83,8 +84,8 @@ INTUBE
 - [x] Video Detail
 - [x] Edit Video
 - [x] User Detail
-- [ ] Edit Profile
-- [ ] Change Password
+- [x] Edit Profile
+- [x] Change Password
 
 ## Run
 
