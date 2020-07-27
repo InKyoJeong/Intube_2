@@ -74,7 +74,7 @@ INTUBE
 └── .gitigonore
 ```
 
-## Pages
+## To Do
 
 - [x] Home
 - [x] Join
@@ -86,6 +86,8 @@ INTUBE
 - [x] User Detail
 - [x] Edit Profile
 - [x] Change Password
+
+- [x] Save video files in S3
 
 ## Run
 
